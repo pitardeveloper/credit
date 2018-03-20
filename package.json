@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "leveling_crediting.js",
   "scripts": {
-    "start": "l"
+    "start": "leveling_crediting.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
